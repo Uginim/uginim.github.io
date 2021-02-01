@@ -282,6 +282,8 @@ defaults:
   - scope:
       path: ""
       type: posts
+      values:
+        comments: true # true
     values:
       layout: single
       author_profile: true
